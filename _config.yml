@@ -1,0 +1,8 @@
+future: true
+timezone: Asia/Seoul
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
