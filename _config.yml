@@ -1,4 +1,5 @@
 future: true
+encoding: UTF-8
 timezone: Asia/Seoul
 exclude:
   - Gemfile
